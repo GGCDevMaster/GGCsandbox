@@ -1,6 +1,8 @@
 # GGCsandbox
 For: Product Manager , Development Engineer
 
+内测仅支持安卓手机，正式版本支持苹果手机
+
 v1.3.2
 +根据当前版本判断是否显示支付后的关闭按钮
 +优化授权支付，去除对结果推送是否成功的依赖
